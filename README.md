@@ -8,5 +8,5 @@ This project demonstrates Linear Regression using TensorFlow/Keras, following be
 3. **Train a linear regression model** using TensorFlow/Keras 🤖
 4. **Evaluate model performance** 📈
 
-## 🚀 Try it on Colab:
-[Run this notebook on Google Colab](<[insert-link-here](https://colab.research.google.com/github/cswiz2003/linear_reg_tensorflow_keras/blob/main/linear_reg_practise.ipynb)>)
+## 🚀 Try it on Colab:**
+[Run this notebook on Google Colab](https://colab.research.google.com/github/cswiz2003/linear_reg_tensorflow_keras/blob/main/linear_reg_practise.ipynb)
